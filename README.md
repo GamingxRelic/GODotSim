@@ -14,8 +14,6 @@ We train the ais beforehand.
 - 2d top down 
 - Stardew valley esc graphics
 
-## Features:
 
-
-Stack:
+## Stack:
 godot 
